@@ -32,4 +32,4 @@ I use browser console to log the time. It's quite simple. Open the console, type
 
 ## Progress
 
-- [Day 1 - Dec 09, 2022](/src/progress/day-1/README.md)
+- [Day 1 - Dec 09, 2022](/src/progress/day-1)

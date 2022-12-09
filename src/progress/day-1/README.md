@@ -14,7 +14,7 @@
 
 ## What I learned
 
-An algorithm is a set of steps that take an input and procudes an output in a finite amount of time.
+An algorithm is a set of steps that take an input and produces an output in a finite amount of time.
 
 Algorithms are everywhere. We use them all the time even we don't realize them. It ranges from sorting a bunch of books in the shelf to solving the real-world problems.
 
