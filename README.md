@@ -14,7 +14,6 @@ Recently, I started reading this book, called "Introduction to Algorithms - 4th 
 
 > **Note**: It's not the 100 Days of Code challenge, but rather inspired by it. I'm going for this challenge till the end of the 1312-paged book.
 
-
 ## Book
 
 You can find the PDF version of the book in the `/public/` folder.
@@ -38,4 +37,4 @@ I use browser console to log the time. It's quite simple. Open the console, type
 
 ## Progress
 
-[Progress](/src/progress) will be listed here...
+[Progress](/progress) will be listed here...
