@@ -18,6 +18,8 @@ Recently, I started reading this book, called "Introduction to Algorithms - 4th 
 
 You can find the PDF version of the book in the `/public/` folder.
 
+![Book](/public/img/screenshot.png)
+
 ## Code
 
 You can find the code in each day. I know it's not an ideal way of organizing code in one folder. I try to find other ways, too, but for now that's okay.
