@@ -5,7 +5,6 @@
 - [Overview](#overview)
 - [Book](#book)
 - [Code](#code)
-- [Time](#time)
 - [Progress](#progress)
 
 ## Overview
@@ -27,15 +26,6 @@ You can find the code in each day. I know it's not an ideal way of organizing co
 Also, not all day has its own code, because sometimes there are theories and eplainations, so no need for writing code.
 
 > **Note**: The code is written in **TypeScript**
-
-## Time
-
-I use browser console to log the time. It's quite simple. Open the console, type `new Date()` and you will get the time.
-
-```js
-=> new Date()
-<= Fri Dec 09 2022 19:08:46 GMT+0200 (EEST)
-```
 
 ## Progress
 
